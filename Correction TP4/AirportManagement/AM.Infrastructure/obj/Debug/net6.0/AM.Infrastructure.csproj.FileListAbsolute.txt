@@ -1,0 +1,68 @@
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.deps.json
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.runtimeconfig.json
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.pdb
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.AssemblyInfo.cs
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.CopyComplete
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\refint\AM.Infrastructure.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.pdb
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.genruntimeconfig.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\ref\AM.Infrastructure.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.deps.json
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.runtimeconfig.json
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.pdb
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.AssemblyInfo.cs
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.CopyComplete
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\refint\AM.Infrastructure.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.pdb
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.genruntimeconfig.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\ref\AM.Infrastructure.dll
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.deps.json
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.runtimeconfig.json
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.dll
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.pdb
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.AssemblyInfo.cs
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.CopyComplete
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.dll
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\refint\AM.Infrastructure.dll
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.pdb
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.genruntimeconfig.cache
+C:\Users\Amina\Desktop\Cours 22-23\Partie3Configuration\Implémentation\Correction TP4\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\ref\AM.Infrastructure.dll
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.deps.json
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.runtimeconfig.json
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.dll
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.pdb
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.AssemblyInfo.cs
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.CopyComplete
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.dll
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\refint\AM.Infrastructure.dll
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.pdb
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.genruntimeconfig.cache
+C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\ref\AM.Infrastructure.dll

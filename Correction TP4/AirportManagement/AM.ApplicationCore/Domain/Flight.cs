@@ -18,7 +18,8 @@ namespace AM.ApplicationCore.Domain
         public string? Departure { get; set; }
         public string Destination { get; set; }
         //prop de navigation
-        public virtual ICollection<Passenger> Passengers { get; set; }
+        //public virtual ICollection<Passenger> Passengers { get; set; }
+         public virtual ICollection<Ticket> Tickets { get; set; }
         //[ForeignKey("PlaneFK")]
         public virtual Plane Plane { get; set; }
         [ForeignKey("Plane")]

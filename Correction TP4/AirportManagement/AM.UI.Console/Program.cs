@@ -3,6 +3,7 @@ using AM.ApplicationCore.Domain;
 using AM.ApplicationCore.Interfaces;
 using AM.ApplicationCore.Services;
 using AM.Infrastructure;
+using System.Xml;
 
 //Plane plane = new Plane();
 //plane.PlaneType = PlaneType.Airbus;
@@ -26,7 +27,7 @@ s1.PassengerType();
 t1.PassengerType();
 
 Console.WriteLine("************************************ Testing Services  ****************************** ");
-ServiceFlight sf = new ServiceFlight();
+ServiceFlight1 sf = new ServiceFlight1();
 
 sf.Flights = TestData.listFlights;
 
@@ -63,15 +64,16 @@ Console.WriteLine("First Name: " + p1.FullName.FirstName + " Last Name: " + p1.F
 
 
 Console.WriteLine("************************************ Insertion dans la BD ******************************");
-AMContext ctx = new AMContext();
+
 //bd context
 /*ctx.Planes.Add(TestData.Airbusplane);
 ctx.Planes.Add(TestData.BoingPlane);
 */
-IUnitOfWork uow = new UnitOfWork(ctx);
-IServicePlane sp = new ServicePlane(uow);
-sp.Add(TestData.Airbusplane);
-sp.Add(TestData.BoingPlane);
+//insertion 1 
+//IUnitOfWork uow = new UnitOfWork(ctx);
+//IServicePlane sp = new ServicePlane(uow);
+//sp.Add(TestData.Airbusplane);
+//sp.Add(TestData.BoingPlane);
 /*
 ctx.Flights.Add(TestData.flight1);
 ctx.Flights.Add(TestData.flight2);
@@ -84,3 +86,26 @@ ctx.SaveChanges();*/
 /*foreach (Flight f in ctx.Flights)
     Console.WriteLine("date du vol"+f.FlightDate+"plane capacity"+f.Plane.Capacity);   
 */
+
+
+//instancier le service
+
+//seance jeya injection de dépendance 
+AMContext ctx = new AMContext();
+IUnitOfWork uow = new UnitOfWork(ctx);
+IServicePlane sp = new ServicePlane(uow);
+
+//insertion 2 
+sp.Add(TestData.Airbusplane);
+sp.Add(TestData.BoingPlane);
+
+sp.Commit();
+//affichage ts les avions 
+Console.WriteLine("affichage tous les avions");
+foreach(Plane p in sp.GetMany())
+    Console.WriteLine( p);
+
+//affichage ili id > 2
+Console.WriteLine("affichage les avionsdont l'id > 2");
+foreach (Plane p in sp.GetMany(p=>p.PlaneId>2))
+    Console.WriteLine(p);

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\merie\\OneDrive\\Bureau\\bikemla\\Correction TP4\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {}
+    "C:\\Users\\merie\\OneDrive\\Bureau\\Airport_Management\\dot.net\\Correction TP4\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\merie\\OneDrive\\Bureau\\bikemla\\Correction TP4\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
+    "C:\\Users\\merie\\OneDrive\\Bureau\\Airport_Management\\dot.net\\Correction TP4\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\merie\\OneDrive\\Bureau\\bikemla\\Correction TP4\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\merie\\OneDrive\\Bureau\\Airport_Management\\dot.net\\Correction TP4\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
         "projectName": "AM.ApplicationCore",
-        "projectPath": "C:\\Users\\merie\\OneDrive\\Bureau\\bikemla\\Correction TP4\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\merie\\OneDrive\\Bureau\\Airport_Management\\dot.net\\Correction TP4\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\merie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\merie\\OneDrive\\Bureau\\bikemla\\Correction TP4\\AirportManagement\\AM.ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\merie\\OneDrive\\Bureau\\Airport_Management\\dot.net\\Correction TP4\\AirportManagement\\AM.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\merie\\AppData\\Roaming\\NuGet\\NuGet.Config",

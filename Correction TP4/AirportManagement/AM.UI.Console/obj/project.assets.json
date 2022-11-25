@@ -7087,11 +7087,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\merie\\OneDrive\\Bureau\\bikemla\\Correction TP4\\AirportManagement\\AM.UI.Console\\AM.UI.Console.csproj",
+      "projectUniqueName": "C:\\Users\\merie\\OneDrive\\Bureau\\Airport_Management\\dot.net\\Correction TP4\\AirportManagement\\AM.UI.Console\\AM.UI.Console.csproj",
       "projectName": "AM.UI.Console",
-      "projectPath": "C:\\Users\\merie\\OneDrive\\Bureau\\bikemla\\Correction TP4\\AirportManagement\\AM.UI.Console\\AM.UI.Console.csproj",
+      "projectPath": "C:\\Users\\merie\\OneDrive\\Bureau\\Airport_Management\\dot.net\\Correction TP4\\AirportManagement\\AM.UI.Console\\AM.UI.Console.csproj",
       "packagesPath": "C:\\Users\\merie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\merie\\OneDrive\\Bureau\\bikemla\\Correction TP4\\AirportManagement\\AM.UI.Console\\obj\\",
+      "outputPath": "C:\\Users\\merie\\OneDrive\\Bureau\\Airport_Management\\dot.net\\Correction TP4\\AirportManagement\\AM.UI.Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\merie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7108,11 +7108,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\merie\\OneDrive\\Bureau\\bikemla\\Correction TP4\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\merie\\OneDrive\\Bureau\\bikemla\\Correction TP4\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj"
+            "C:\\Users\\merie\\OneDrive\\Bureau\\Airport_Management\\dot.net\\Correction TP4\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\merie\\OneDrive\\Bureau\\Airport_Management\\dot.net\\Correction TP4\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj"
             },
-            "C:\\Users\\merie\\OneDrive\\Bureau\\bikemla\\Correction TP4\\AirportManagement\\AM.Infrastructure\\AM.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\merie\\OneDrive\\Bureau\\bikemla\\Correction TP4\\AirportManagement\\AM.Infrastructure\\AM.Infrastructure.csproj"
+            "C:\\Users\\merie\\OneDrive\\Bureau\\Airport_Management\\dot.net\\Correction TP4\\AirportManagement\\AM.Infrastructure\\AM.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\merie\\OneDrive\\Bureau\\Airport_Management\\dot.net\\Correction TP4\\AirportManagement\\AM.Infrastructure\\AM.Infrastructure.csproj"
             }
           }
         }

@@ -9,28 +9,10 @@ using System.Threading.Tasks;
 
 namespace AM.ApplicationCore.Services
 {
-    public class ServicePassenger : IServicePassenger
+    public class ServicePassenger : Service<Passenger>, IServicePassenger
     {
-        private IUnitOfWork uow;
-        public ServicePassenger(IUnitOfWork unitOfWork)
+        public ServicePassenger(IUnitOfWork unitOfWork) : base(unitOfWork)
         {
-            uow = unitOfWork;
-        }
-        public void Add(Passenger passenger)
-        {
-            uow.Repository<Passenger>().Add(passenger);
-
-        }
-
-        public IEnumerable<Passenger> GetAll()
-        {
-            return uow.Repository<Passenger>().GetAll();
-        }
-
-        public void Remove(Passenger passenger)
-        {
-            uow.Repository<Passenger>().Delete(passenger);
-
         }
     }
 }

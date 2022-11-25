@@ -58,3 +58,15 @@ C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.Appli
 C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
 C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
 C:\Users\merie\OneDrive\Bureau\bikemla\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\merie\OneDrive\Bureau\Airport_Management\dot.net\Correction TP4\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\merie\OneDrive\Bureau\Airport_Management\dot.net\Correction TP4\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\merie\OneDrive\Bureau\Airport_Management\dot.net\Correction TP4\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\merie\OneDrive\Bureau\Airport_Management\dot.net\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\merie\OneDrive\Bureau\Airport_Management\dot.net\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merie\OneDrive\Bureau\Airport_Management\dot.net\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\merie\OneDrive\Bureau\Airport_Management\dot.net\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\merie\OneDrive\Bureau\Airport_Management\dot.net\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\merie\OneDrive\Bureau\Airport_Management\dot.net\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\merie\OneDrive\Bureau\Airport_Management\dot.net\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\merie\OneDrive\Bureau\Airport_Management\dot.net\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\merie\OneDrive\Bureau\Airport_Management\dot.net\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll

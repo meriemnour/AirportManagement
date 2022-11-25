@@ -7,10 +7,8 @@ using System.Threading.Tasks;
 
 namespace AM.ApplicationCore.Interfaces
 {
-    public interface IServicePlane
+    public interface IServicePlane:IService<Plane>
     {
-        public void Add(Plane plane);
-        public void Remove(Plane plane);
-        public IEnumerable<Plane>GetAll();
+       
     }
 }

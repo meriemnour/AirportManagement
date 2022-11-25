@@ -7,10 +7,8 @@ using System.Threading.Tasks;
 
 namespace AM.ApplicationCore.Interfaces
 {
-    public interface IServicePassenger
+    public interface IServicePassenger:IService<Passenger>
     {
-        public void Add(Passenger passenger);
-        public void Remove(Passenger passenger);
-        public IEnumerable<Passenger> GetAll();
+        
     }
 }

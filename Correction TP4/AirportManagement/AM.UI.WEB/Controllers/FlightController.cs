@@ -17,7 +17,7 @@ namespace AM.UI.WEB.Controllers
             this.sp = sp;
         }
         // GET: FlightController
-        public ActionResult Index(DateTime datedepart)
+        public ActionResult Index(DateTime? datedepart)
         {
             if (datedepart == null)
                 //list des flight 

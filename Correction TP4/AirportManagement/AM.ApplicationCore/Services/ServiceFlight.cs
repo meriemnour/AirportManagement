@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace AM.ApplicationCore.Services
 {
-    internal class ServiceFlight : Service<Flight>, IServiceFlight
+    public class ServiceFlight : Service<Flight>, IServiceFlight
     {
         public ServiceFlight(IUnitOfWork unitOfWork) : base(unitOfWork)
         {

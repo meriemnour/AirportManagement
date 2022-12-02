@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\merie\OneDrive\Bureau\Airport_Management\dot.net\Correction TP4\AirportManagement\AM.UI.WEB
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/merie/OneDrive/Bureau/Airport_Management/dot.net/Correction TP4/AirportManagement/AM.UI.WEB/Views/Flight/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merie/OneDrive/Bureau/Airport_Management/dot.net/Correction TP4/AirportManagement/AM.UI.WEB/Views/Flight/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/merie/OneDrive/Bureau/Airport_Management/dot.net/Correction TP4/AirportManagement/AM.UI.WEB/Views/Flight/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -25,6 +33,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/merie/OneDrive/Bureau/Airport_Management/dot.net/Correction TP4/AirportManagement/AM.UI.WEB/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merie/OneDrive/Bureau/Airport_Management/dot.net/Correction TP4/AirportManagement/AM.UI.WEB/Views/Plane/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merie/OneDrive/Bureau/Airport_Management/dot.net/Correction TP4/AirportManagement/AM.UI.WEB/Views/Plane/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbmVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/merie/OneDrive/Bureau/Airport_Management/dot.net/Correction TP4/AirportManagement/AM.UI.WEB/Views/Shared/Error.cshtml]
